@@ -30,14 +30,24 @@ Task Manager is a command-line application that allows you to manage your tasks 
 
 ## Screenshots
 
+- Main Menu
 ![Screenshot 1](./Screenshot1.png)
+
+- Displaying all Tasks 
 ![Screenshot 2](./Screenshot2.png)
+
+- Adding Tasks
 ![Screenshot 3](./Screenshot3.png)
+
+- Modifying Tasks
 ![Screenshot 4](./Screenshot4.png)
+
+- Finding Tasks
 ![Screenshot 5](./Screenshot5.png)
 ![Screenshot 6](./Screenshot6.png)
+
+- Exit 
 ![Screenshot 7](./Screenshot7.png)
-<!-- Add more screenshots if necessary -->
 
 ## Built Using
 
