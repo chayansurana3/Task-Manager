@@ -5,10 +5,10 @@ Task Manager is a command-line application that allows you to manage your tasks 
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
 - [Project URLs](#project-urls)
+- [Screenshots](#screenshots)
 - [Built Using](#built-using)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Author](#author)
@@ -23,22 +23,21 @@ Task Manager is a command-line application that allows you to manage your tasks 
 - Delete all tasks
 - Quit the Task Manager
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/your-username/task-manager.git`
-2. Compile the source code: `gcc main.cpp -o main -lsqlite3 -lstdc++`
-3. Run the application: `./main.exe`
-
-## Screenshots
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-<!-- Add more screenshots if necessary -->
-
 ## Project URLs
 
 - Project Video: [Link to Project Video](https://www.youtube.com/watch?v=your-video-url)
-- Git Repository: [https://github.com/your-username/task-manager](https://github.com/chayansurana3/Task-Manager.git)
+- Git Repository: [Click Here](https://github.com/chayansurana3/Task-Manager.git)
+
+## Screenshots
+
+![Screenshot 1](./Screenshot1.png)
+![Screenshot 2](./Screenshot2.png)
+![Screenshot 3](./Screenshot3.png)
+![Screenshot 4](./Screenshot4.png)
+![Screenshot 5](./Screenshot5.png)
+![Screenshot 6](./Screenshot6.png)
+![Screenshot 7](./Screenshot7.png)
+<!-- Add more screenshots if necessary -->
 
 ## Built Using
 
@@ -48,6 +47,11 @@ Task Manager is a command-line application that allows you to manage your tasks 
 
 Make sure you have the necessary sqlite dependencies installed on your system before compiling and running the application.
 
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/chayansurana3/Task-Manager.git`
+2. Compile the source code: `gcc main.cpp -o main -lsqlite3 -lstdc++`
+3. Run the application: `./main.exe`
 ## Usage
 
 Upon running the application, you will be presented with the main menu. Use the provided options to navigate through the different features:
