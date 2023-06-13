@@ -25,7 +25,7 @@ Task Manager is a command-line application that allows you to manage your tasks 
 
 ## Project URLs
 
-- Project Video: [Link to Project Video](https://www.youtube.com/watch?v=your-video-url)
+- Project Video: [Link to Project Video](https://vimeo.com/manage/videos/835801460/1ba2b5ce40)
 - Git Repository: [Click Here](https://github.com/chayansurana3/Task-Manager.git)
 
 ## Screenshots
